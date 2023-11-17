@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Engineer.
 
-- :seedling: FOcusing on Data structures and Algorithims
+- :seedling: Focusing on learning and growing my skills
 
 - :zap: In my free time, I read various programming concepts
 
